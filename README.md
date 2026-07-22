@@ -6,6 +6,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0180-consecutive-numbers) |
 | [0511-game-play-analysis-i](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0511-game-play-analysis-i) |
 ## Array
 |  |
