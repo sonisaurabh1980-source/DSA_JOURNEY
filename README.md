@@ -8,6 +8,7 @@
 | [0178-rank-scores](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0180-consecutive-numbers) |
 | [0511-game-play-analysis-i](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0511-game-play-analysis-i) |
+| [0585-investments-in-2016](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0585-investments-in-2016) |
 | [0610-triangle-judgement](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0627-swap-sex-of-employees) |
