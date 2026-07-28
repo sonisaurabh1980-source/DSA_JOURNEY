@@ -12,6 +12,7 @@
 | [0610-triangle-judgement](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1148-article-views-i) |
 ## Array
 |  |
