@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
