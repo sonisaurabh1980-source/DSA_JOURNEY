@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
