@@ -19,6 +19,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
