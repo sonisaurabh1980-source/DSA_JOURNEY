@@ -27,6 +27,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -35,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
