@@ -21,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -28,6 +29,7 @@
 | [0002-add-two-numbers](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0050-powx-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
