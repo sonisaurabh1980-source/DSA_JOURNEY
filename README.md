@@ -22,6 +22,7 @@
 | [0011-container-with-most-water](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -66,8 +67,10 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/sonisaurabh1980-source/DSA_JOURNEY/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
